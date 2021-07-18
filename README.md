@@ -9,9 +9,9 @@
   <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/MySQL-00000?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
 </p>
 <h2 align="center">My works</h1>
-<p style="font-size= 10px"></p>
+<p style="font-size= 15px"></p>
 » <a href="https://github.com/SteelVille">SteelVilleRP</a>
-| I work mainly at <b>SteelVilleRP</b>, one of the best known Italian roleplays at the moment.
+| I work mainly on the <b>SteelVilleRP</b> project, one of the largest roleplay communities in Italy.
 <hr>
 <p align="center">
   <img style="display: block; margin-left: auto; margin-right: auto;" src="https://discord.c99.nl/widget/theme-4/502162108184657955.png"/>
