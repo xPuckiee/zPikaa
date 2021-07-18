@@ -10,8 +10,8 @@
 </p>
 <h2 align="center">My works</h1>
 <p style="font-size= 10px"></p>
-<a href="https://github.com/SteelVille">SteelVilleRP</a>
-| I work mainly at SteelVilleRP, one of the best known Italian roleplays at the moment.
+» <a href="https://github.com/SteelVille">SteelVilleRP</a>
+| I work mainly at <b>SteelVilleRP</b>, one of the best known Italian roleplays at the moment.
 <hr>
 <p align="center">
   <img style="display: block; margin-left: auto; margin-right: auto;" src="https://discord.c99.nl/widget/theme-4/502162108184657955.png"/>
