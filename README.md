@@ -6,5 +6,5 @@
 <p align="center">
   <img style="display:block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white"/>
   <img style="display:block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/Python-376FA0?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-  <img style="display:block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/SQL-00000?style=for-the-badge&amp;logo=sql&amp;logoColor=white"/>
+  <img style="display:block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/badge/MySQL-00000?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
 </p>
