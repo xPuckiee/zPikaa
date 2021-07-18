@@ -10,7 +10,7 @@
 </p>
 <h2 align="center">My works</h1>
 <p style="font-size: 20px;">
-» <a href="https://github.com/SteelVille" target="_blank">SteelVilleRP</a>
+» <a href="https://github.com/SteelVille">SteelVilleRP</a>
 | I work mainly on the <b>SteelVilleRP</b> project, one of the largest roleplay communities in Italy.
 </p>
 <hr>
